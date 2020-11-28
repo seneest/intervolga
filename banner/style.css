@@ -1,0 +1,13 @@
+.banner {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+
+}
+.banner img {
+    width: 200px;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
